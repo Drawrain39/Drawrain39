@@ -6,7 +6,7 @@
 
 # Drawrain
 
-### `CTF` · `Reverse Engineering`  · `AI`
+### `CTF` · `Reverse Engineering` · `AI`
 
 <sub>希望我永远不会后悔自己做出的选择.</sub>
 
@@ -34,8 +34,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Drawrain39&show_icons=true&hide_border=true&bg_color=00000000&title_color=89B4E8&text_color=8B949E&icon_color=F3AFC2" alt="Drawrain GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drawrain39&layout=compact&hide_border=true&bg_color=00000000&title_color=89B4E8&text_color=8B949E" alt="Drawrain top languages" />
+<img height="165" src="./profile/stats.svg" alt="Drawrain GitHub stats" />
+<img height="165" src="./profile/top-langs.svg" alt="Drawrain top languages" />
 
 </div>
 
@@ -57,7 +57,7 @@
 
 <div align="center">
 
-### 𓂃 ࣪˖ ִֶָ🌼  この先どうなら楽ですか。
+### 𓂃 ࣪˖ ִֶָ🌼 この先どうなら楽ですか。
 
 <sub>今后该怎么样 才能活的轻松呢.</sub>
 
