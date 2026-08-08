@@ -30,16 +30,7 @@
 
 ---
 
-## 📊 GitHub
 
-<div align="center">
-
-<img height="165" src="./profile/stats.svg" alt="Drawrain GitHub stats" />
-<img height="165" src="./profile/top-langs.svg" alt="Drawrain top languages" />
-
-</div>
-
----
 
 ## 🐍 Contributions
 
