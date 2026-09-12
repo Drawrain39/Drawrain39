@@ -13,7 +13,7 @@
 <br/>
 
 <a href="https://drawrain.me"><img src="https://img.shields.io/badge/Blog-drawrain.me-89B4E8?style=for-the-badge&logo=astro&logoColor=white" alt="Blog" /></a>
-<a href="https://space.bilibili.com/1028831637"><img src="https://img.shields.io/badge/Bilibili-Drawrain-F3AFC2?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
+
 <img src="https://komarev.com/ghpvc/?username=Drawrain39&style=for-the-badge&color=89B4E8&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
