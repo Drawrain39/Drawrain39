@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.webp" width="100%" alt="Drawrain profile banner" />
+<img src="./assets/banner-20261010.webp" width="100%" alt="Drawrain profile banner" />
 
 <br/>
 
